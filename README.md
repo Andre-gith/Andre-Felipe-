@@ -44,25 +44,6 @@ portfolio/
     ├── profile.png   # Foto de perfil
     └── Currículo-Andre-Felipe.pdf
 ```
-
----
-
-## 🚀 Como rodar localmente
-
-```bash
-# Clone o repositório
-git clone https://github.com/Andre-gith/portfolio.git
-
-# Acesse a pasta
-cd portfolio
-
-# Abra no navegador
-# Basta abrir o arquivo index.html no seu browser
-# ou use a extensão Live Server no VS Code
-```
-
----
-
 ## 📬 Contato
 
 | Canal | Link |
